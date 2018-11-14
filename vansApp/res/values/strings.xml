@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">vansApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello_world!</string>
+    <string name="conf_text">CONFIRMAR</string>
+    <string name="conf_text2">ANDROID</string>
+    <string name="conf_text3">ESCRITORIO</string>
+    <string name="conf_text4">LAUNCHER</string>
+
+</resources>
