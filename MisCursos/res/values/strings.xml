@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mis Cursos</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Lista de los Cursos
+Computacion VI Semestre</string>
+	<string name="curso1">Legislacion Laboral</string>
+	<string name="curso2">Liderazgo y Trabajo</string>
+	<string name="curso3">Proyecto Empresarial</string>
+	<string name="curso4">Taller programacion WEB</string>
+	<string name="curso5">Comercio Electronico</string>
+	<string name="curso6">Aplicaciones Móviles</string>
+	<string name="curso7">Produccion Audiovisual</string>
+	
+</resources>
