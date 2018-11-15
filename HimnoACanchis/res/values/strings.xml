@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Himno a Canchis</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">HIMNO A CANCHIS</string>
+	<string name="coro">CORO</string>
+	<string name="texto1">Canchis, mi pueblo bravo y altivo
+todo leyenda, clamor y anhelo
+eres historia hecha en granito
+eres bandera que aman los cielos.</string>
+	<string name="estrofa">ESTROFAS</string>
+	<string name="texto2">Tienes la estirpe de los guerreros
+que hicieron solos grandes a su tierra
+para nosotros eres ejemplo;
+para el futuro eres hoguera.
+Canchis, mi tierra libertadora,
+pendón al tope, luz de batalla,
+clarín de lucha, himno de gloria,
+fulgor que enciendes cantos al alba.
+Canchis, mi Canchis, para tus hijos
+eres un grito de rebeldía,
+eres la chispa de sus latidos,
+la luz que indica rumbo a sus vidas.</string>
+</resources>
